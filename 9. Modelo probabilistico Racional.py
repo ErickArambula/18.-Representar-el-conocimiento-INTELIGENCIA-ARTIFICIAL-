@@ -38,4 +38,3 @@ decision = tomar_decision(observacion)
 # Imprimir los resultados
 print(f"Observación: {observacion}")
 print(f"Decisión: {decision}")
-s
